@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/trulle82/Sedimentation-Lab/HEAD?urlpath=https%3A%2F%2Fgithub.com%2Ftrulle82%2FSedimentation-Lab%2Fblob%2Fmain%2Fsedim.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/trulle82/Sedimentation-Lab/HEAD?labpath=sedim.ipynb)
 
 # Sedimentation-Lab
 
