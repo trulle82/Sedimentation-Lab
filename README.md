@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/trulle82/Sedimentation-Lab/HEAD?labpath=https%3A%2F%2Fgithub.com%2Ftrulle82%2FSedimentation-Lab%2Fblob%2Fmain%2Fsedim.ipynb)
+
 # Sedimentation-Lab
 
 This lab is based on a [Jupyter Notebook](http://jupyter.org):
