@@ -20,6 +20,9 @@ If you have little experience with Python or shell programming, the following tw
 
 ## Preparation before the lab
 
+There are several alternatives to run this lab. You can download it locally to your computer if you have Python installed (together with numpy, jupyther, etc). 
+Or you can run it by clicking the binder button on this page (takes some time to load though). You can also run it in Google Colab, Deepnote, or similar. 
+
 1. Install [miniconda3](https://conda.io/miniconda.html).
 2. [Download](https://github.com/gitesei/Sedimentation-Lab/archive/master.zip) the lab material
    (this github repository) and unzip.
