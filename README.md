@@ -6,7 +6,7 @@ This lab is based on a [Jupyter Notebook](http://jupyter.org):
 - `sedim.ipynb`
 
 Author: Martin Trulsson<br>
-E-mail: martin.trulsson@teokem.lu.se 
+E-mail: martin.trulsson@chem.lu.se 
 
 ## Prerequisites
 
